@@ -10,13 +10,13 @@
 
 <div align="center">
   <!-- Badges -->
-  <a href="https://twitter.com/TU_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  <a href="https://x.com/TU_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/x-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/TU_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@TU_YOUTUBE" target="_blank">
+  <a href="https://www.youtube.com/@Tomber991" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
   </a>
   <a href="https://discord.gg/TU_DISCORD" target="_blank">
@@ -30,7 +30,7 @@
 
 - 🎮 **Passion for Gaming**: I love creating gaming experiences that are immersive and fun. Currently developing **Dach RPG**, a pixel-art RPG featuring sausage dogs! 🐶
 - 💻 **Programming**: Proficient in Python, exploring game development with Pygame and Godot.
-- 🎯 **Life Goal**: To become a recognized software engineer specializing in cybersecurity and software design.
+- 🎯 **Life Goal**: To become a recognized software engineer specializing in scripting and software design.
 - 🌱 **Learning**: Always improving my skills in **software architecture**, **design patterns**, and **game mechanics**.
 
 ---
@@ -38,17 +38,9 @@
 ### 🚀 Tech Stack
 
 - **Languages**: Python, JavaScript
-- **Frameworks/Tools**: Pygame, Godot, GitHub
+- **Frameworks/Tools**: Pygame, GitHub
 - **Development**: Game Design, Discord Bots
-- **OS**: Linux, Ubuntu
-
----
-
-### 🎮 My Current Projects
-
-1. **Dach RPG**: An indie game about sausage dogs in turn-based battles.
-2. **Discord Bots**: Developing customized Discord bots for fun and functionality.
-3. **GitHub Tutorials**: Sharing knowledge to help others level up in programming.
+- **OS**: Win 10
 
 ---
 
@@ -60,6 +52,6 @@
 
 ### 📫 Connect with Me
 
-- **Twitter**: [@YourTwitter](https://twitter.com/TU_TWITTER)
+- **X**: [@991](https://twitter.com/991)
 - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/TU_LINKEDIN)
-- **Discord**: [Your Discord Server](https://discord.gg/TU_DISCORD)
+- **Discord**: [Your Discord Server](https://discord.gg/Tomber991)
