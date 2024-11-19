@@ -28,9 +28,9 @@
 
 ### 🕹️ About Me
 
-💻 Programming: Skilled in Python, with experience in Pygame and Discord bots.
-🎯 Focus: Passionate about scripting and designing efficient software.
-🌱 Learning: Always improving in software architecture, design patterns, and game mechanics.
+💻 **Programming**: Skilled in Python, with experience in Pygame and Discord bots.
+🎯 **Focus**: Passionate about scripting and designing efficient software.
+🌱 **Learning**: Always improving in software architecture, design patterns, and game mechanics.
 
 ---
 
@@ -53,5 +53,5 @@
 ### 📫 Connect with Me
 
 - **X**: [@991](https://twitter.com/User_991_)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/tomas-schmidt-a111911b5/)
-- **Discord**: [Your Discord Server](https://discord.gg/Tomber991)
+- **LinkedIn**: [Tomas Schmidt](https://www.linkedin.com/in/tomas-schmidt-a111911b5/)
+<!-- - **Discord**: [Server991](https://discord.gg/Tomber991) -->
