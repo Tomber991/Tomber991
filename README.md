@@ -3,21 +3,16 @@
 </div>
 
 <h1 align="center">Hi there! 👋 I'm <span style="color: #ff6f61;">Tomber</span> 💻🎮</h1>
-
-<p align="center">
-  <b>Programmer | Artist | Future Software Engineer</b>
-</p>
-
 <div align="center">
   <!-- Badges -->
   <a href="https://x.com/User_991_" target="_blank">
-    <img src="https://img.shields.io/badge/x-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/x-%101DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tomas-schmidt-a111911b5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%100A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@Tomber991/featured" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-%10FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
   </a>
   <!-- 
   <a href="https://discord.gg/TU_DISCORD" target="_blank">
