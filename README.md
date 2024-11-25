@@ -33,7 +33,7 @@
 
 ### 🚀 Tech Stack
 
-- **Languages**: Python
+- **Languages**: Python, frontend
 - **Frameworks/Tools**: Pygame, GitHub
 - **Development**: Game Design, Discord Bots
 
