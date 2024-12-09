@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="BANNER.png" alt="Tomber's Banner" width="100%" />
+<!-- BANNER -->
 </div>
 
 <h1 align="center">Hi there! 👋 I'm <span style="color: #ff6f61;">Tomber</span> 💻🎮</h1>
