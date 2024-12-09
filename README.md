@@ -2,7 +2,7 @@
 <!-- BANNER -->
 </div>
 
-<h1 align="center">Hi there! 👋 /n I'm <span style="color: #ff6f61;">Tomber</span> 💻🎮</h1>
+<h1 align="center">Hi there! 👋 I'm <span style="color: #ff6f61;">Tomber</span> 💻🎮</h1>
 <div align="center">
   <!-- Badges -->
   <a href="https://x.com/User_991_" target="_blank">
