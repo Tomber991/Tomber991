@@ -8,11 +8,8 @@
 
   [![Instagram](https://img.shields.io/badge/Instagram-@tomas.schm-E4405F?logo=instagram&logoColor=white)](https://instagram.com/tomas.schm)
   [![YouTube](https://img.shields.io/badge/YouTube-Tomber-red?logo=youtube)](https://www.youtube.com/@Tomber991/featured)
+  [![Roblox](https://img.shields.io/badge/Roblox-Tomber-red?logo=roblox)](https://www.roblox.com/users/168664559/profile)
 
-  <!-- 
-  <a href="https://discord.gg/TU_DISCORD" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
 -->
 </div>
 
