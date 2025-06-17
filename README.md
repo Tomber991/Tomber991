@@ -10,13 +10,11 @@
   [![YouTube](https://img.shields.io/badge/YouTube-Tomber-red?logo=youtube)](https://www.youtube.com/@Tomber991/featured)
   [![Roblox](https://img.shields.io/badge/Roblox-Tomber-red?logo=roblox)](https://www.roblox.com/users/168664559/profile)
 
--->
 </div>
 
 ---
 
 ### 🕹️ About Me
-
 - 💻 **Programming**: Skilled in Python.
 - 🎯 **Focus**: Passionate about scripting and designing efficient software.
 - 🌱 **Learning**: Always improving in software architecture, design patterns, and game mechanics.
