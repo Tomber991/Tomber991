@@ -5,8 +5,8 @@
 <h1 align="center"><span style="color: #ff6f61;">Tomber991</span></h1>
 <div align="center">
   <!-- Badges -->
-  <a href="https://x.com/User_991_" target="_blank">
-    <img src="https://img.shields.io/badge/x-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" />
+  <a href="https://www.instagram.com/tomas.schm/" target="_blank">
+    <img src="https://img.shields.io/badge/x-%231DA1F2.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tomas-schmidt-a111911b5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -25,7 +25,7 @@
 
 ### 🕹️ About Me
 
-- 💻 **Programming**: Skilled in Python, with experience in Pygame and Discord bots.
+- 💻 **Programming**: Skilled in Python.
 - 🎯 **Focus**: Passionate about scripting and designing efficient software.
 - 🌱 **Learning**: Always improving in software architecture, design patterns, and game mechanics.
 
@@ -33,9 +33,9 @@
 
 ### 🚀 Tech Stack
 
-- **Languages**: Python, frontend
-- **Frameworks/Tools**: Pygame, GitHub
-- **Development**: Game Design, Discord Bots
+- **Languages**: Python
+- **Frameworks/Tools**: Pygame, Pyxel, Flask.
+- **Development**: Game Design, Discord Bots, Web Apps.
 
 ---
 
@@ -46,9 +46,10 @@
 [![YouTube Video](https://img.youtube.com/vi/TU_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=TU_VIDEO_ID)
 
 -->
-
+<!--
 ### 📫 Connect with Me
 
 - **X**: [@991](https://twitter.com/User_991_)
 - **LinkedIn**: [Tomas Schmidt](https://www.linkedin.com/in/tomas-schmidt-a111911b5/)
-<!-- - **Discord**: [Server991](https://discord.gg/Tomber991) -->
+- **Discord**: [Server991](https://discord.gg/Tomber991)
+-->
