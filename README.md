@@ -21,11 +21,11 @@
 
 ---
 
-### 🚀 Tech Stack
+--### 🚀 Tech Stack
 
-- **Languages**: Python
-- **Frameworks/Tools**: Pygame, Pyxel, Flask.
-- **Development**: Game Design, Discord Bots, Web Apps.
+-- **Languages**: Python, Lua
+-- **Frameworks/Tools**: Pygame, Pyxel, Flask.
+-- **Development**: Game Design, Discord Bots, Web Apps.
 
 ---
 
