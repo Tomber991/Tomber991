@@ -15,11 +15,9 @@ Soy un desarrollador en formación con interés en **software, juegos y tecnolog
 Actualmente me encuentro construyendo proyectos que combinan programación, creatividad  
 y diseño de experiencias digitales.
 
-- 💻 Manejo de **Python** y **Lua**, con experiencia en automatización, bots y desarrollo de juegos.  
+- 💻 Manejo de **Python** y **Lua**: automatización, bots y desarrollo de juegos.  
 - 🎮 Desarrollo activo en **Roblox**, creando sistemas, mecánicas y experiencias sociales.  
 - 🔧 Formación en **reparación de celulares** y conocimientos básicos de hardware.  
-- 🚀 Intereses profesionales: **arquitectura de software**, **ciberseguridad** y desarrollo escalable.
-
 ---
 
 ## 🚀 Proyectos en los que trabajo
@@ -43,5 +41,5 @@ y diseño de experiencias digitales.
 ---
 
 <div align="center">
-  <em>Sigo construyendo mi camino en el desarrollo de software, un proyecto a la vez.</em>
+  <em>991</em>
 </div>
